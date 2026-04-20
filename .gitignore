@@ -1,0 +1,29 @@
+# Backend
+backend/venv/
+backend/__pycache__/
+backend/.env
+backend/*.pyc
+
+# Frontend
+frontend-website/node_modules/
+frontend-website/build/
+frontend-website/.env.local
+frontend-admin/node_modules/
+frontend-admin/build/
+frontend-admin/.env.local
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
